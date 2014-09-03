@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "代码提交信息"
+git push origin master
+
+
+无法处理时的方法：
+1.更改“代码提交信息”
+2.从 gitshell 中启动
+3.更改文件的时候启动 github
